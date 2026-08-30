@@ -1,0 +1,26 @@
+[
+  {
+    "id": "GEM-SSL-2026-041",
+    "title": "Metro Smart Lighting — Integrated Supply & Installation",
+    "department": "Urban Infrastructure Procurement",
+    "value": "₹20 Cr",
+    "bids": 3,
+    "risk": "HIGH"
+  },
+  {
+    "id": "GEM-ROAD-2026-018",
+    "title": "Smart Road Maintenance & Monitoring",
+    "department": "Public Works Department",
+    "value": "₹8.5 Cr",
+    "bids": 5,
+    "risk": "MEDIUM"
+  },
+  {
+    "id": "GEM-SOLAR-2026-072",
+    "title": "Solar Street Infrastructure",
+    "department": "Renewable Energy Department",
+    "value": "₹11 Cr",
+    "bids": 4,
+    "risk": "LOW"
+  }
+]
