@@ -1,0 +1,12 @@
+[
+  {"tender_id":"GEM-SSL-2026-041","bidder_id":"BID-A","name":"Apex Infra Systems Pvt. Ltd.","compliance":100,"risk":8},
+  {"tender_id":"GEM-SSL-2026-041","bidder_id":"BID-B","name":"Bharat Urban Tech Ltd.","compliance":86,"risk":39},
+  {"tender_id":"GEM-SSL-2026-041","bidder_id":"BID-C","name":"CivicGrid Solutions Pvt. Ltd.","compliance":72,"risk":91},
+  {"tender_id":"GEM-ROAD-2026-018","bidder_id":"ROAD-A","name":"RoadTech Engineering Pvt. Ltd.","compliance":97,"risk":12},
+  {"tender_id":"GEM-ROAD-2026-018","bidder_id":"ROAD-B","name":"UrbanRoute Infra Ltd.","compliance":91,"risk":42},
+  {"tender_id":"GEM-ROAD-2026-018","bidder_id":"ROAD-C","name":"Civic Roads & Mobility","compliance":84,"risk":58},
+  {"tender_id":"GEM-SOLAR-2026-072","bidder_id":"SOL-A","name":"SunGrid Energy Pvt. Ltd.","compliance":99,"risk":5},
+  {"tender_id":"GEM-SOLAR-2026-072","bidder_id":"SOL-B","name":"GreenBeam Infrastructure","compliance":98,"risk":9},
+  {"tender_id":"GEM-SOLAR-2026-072","bidder_id":"SOL-C","name":"EcoVolt Systems","compliance":96,"risk":14},
+  {"tender_id":"GEM-SOLAR-2026-072","bidder_id":"SOL-D","name":"SolarWorks India","compliance":97,"risk":11}
+]
